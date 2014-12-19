@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  contract: MyString
+  start_time: 2014-12-18
+  end_time: 2014-12-18
+  source: MyString
+  price: 1.5
+
+two:
+  contract: MyString
+  start_time: 2014-12-18
+  end_time: 2014-12-18
+  source: MyString
+  price: 1.5
