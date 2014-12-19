@@ -2,6 +2,8 @@
 
 Simple 1 page app to import data from csv into PostgreSQL database and display imported data in a dual line graph using Highcharts.
 
+<b>This app is intended for Ruby 2.1.2 and Rails 4.1.8</b>
+
 How to launch the app:
 
 * Ensure PostgreSQL is installed on your computer
