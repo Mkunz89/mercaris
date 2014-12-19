@@ -4,7 +4,7 @@ Simple 1 page app to import data from csv into PostgreSQL database and display i
 
 How to launch the app:
 
-* Ensure postgresql is installed on your computer
+* Ensure PostgreSQL is installed on your computer
 
 * <tt>Bundle Install</tt>
 
